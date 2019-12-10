@@ -2,12 +2,9 @@
 
  
 
-Primeiramente quero agradecer sua vinda a RATTO SOFTWARE
-
-e sua vontade de fazer parte do nosso time. Conforme conversamos na entrevista, você tem um desafio a ser realizado para avançar no processo de seleção.
+Primeiramente quero agradecer sua vinda a RATTO SOFTWARE e sua vontade de fazer parte do nosso time. Conforme conversamos na entrevista, você tem um desafio a ser realizado para avançar no processo de seleção.
 
  
-
 O desafio é uma avaliação técnica e sua missão é desenvolver a ``API Clientes``. Essa API deve disponibilizar o ``CRUD de clientes`` e o ``CRUD de Endereços`` como ``recurso da API``. Obedeça a ``arquitetura REST`` e utilize ``rotas`` para estabelecer a API e seu recurso. Utilize as seguintes tecnologias/metodologias:
 
 - C#
