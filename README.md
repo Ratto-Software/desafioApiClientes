@@ -47,7 +47,7 @@ Você tem 2 dias para realização do desafio.
 
  
 
-Ao término, favor adicioinar os usuários [asmmartins](https://github.com/asmmartins) e o [michelribeiro](https://github.com/michelribeiro) como colaboradores e enviar o endereço do repositório onde seu projeto está publicado.
+Ao término, favor adicioinar os usuários [asmmartins](https://github.com/asmmartins) e o [FabioLBrito77](https://github.com/FabioLBrito77) como colaboradores e enviar o endereço do repositório onde seu projeto está publicado.
 
  
 
